@@ -1,0 +1,21 @@
+{
+  "title": "Nuovo Progetto",
+  "archived": false,
+  "tasks": [
+    {
+      "name": "Task 1",
+      "priority": 3,
+      "deadline": "2024-09-15T12:00:00Z",
+      "done": false
+    },
+    {
+      "name": "Task 2",
+      "priority": 5,
+      "deadline": "2024-09-20T18:00:00Z",
+      "done": false
+    }
+  ]
+}
+
+
+
